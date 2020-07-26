@@ -2,62 +2,58 @@
   <img src="banner.png">
 </p>
 
-## The Challenge
-1. Read about the challenge and register at [#100DaysOfCloud.com](https://100DaysOfCloud.com)
-2. Join the [Discord Channel](https://discord.gg/c6Db8nY)
-3. Copy the [100DaysOfCloud/100DaysOfCloud Journey Template](https://github.com/100DaysOfCloud/100DaysOfCloud/generate)
-4. Use the [Micro](Templates/000-DAY-ARTICLE-MICRO-TEMPLATE.md), [Short](Templates/001-DAY-ARTICLE-SHORT-TEMPLATE.md) or [Long](Templates/002-DAY-ARTICLE-LONG-TEMPLATE.md) Day Journey Template and document your day-to-day progress.
-5. Update your main README to link back to your Day Journey article
-4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
+## Mikkel's Cloud Journey
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
+👋 Hi, I'm Mikkel, a self-taught software engineer based in London.
 
-## [✍️ Your Name]'s Cloud Journey
+Prior to the challenge, I gained an overview of cloud technologies (AWS in particular) by getting the AWS Solution Architect Associate cert and also working full time using Lambda and friends (DynamoDB, Cognito, Amplify, etc.).
 
-[✍️ Introduce yourself]
+I'm super bullish on serverless as the way forward for the vast majority of businesses and use-cases, so my focus of the challenge will be diving deep on serverless.
 
-[✍️ Tell us why you started this challenge]
+Specifically, my goals for my >1hr/day for 100 days are to:
 
-[✍️ Tell us where you want to be at the end of the challenge]
+🛠 Build 2-3 relatively complete/production ready serverless applications (starting with [Virtual Watercooler](https://virtualwatercooler.xyz)
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+📚 Broaden my knowledge and experience by (a) working with services I haven't used before like SNS/SQS, IoT Core, Step Functions and (b) learning about best-practices for production-ready serverless architecture
+
+💡 Share my learnings and get to know fellow serverless nerds on the internet along the way
+
+
+You can find me on Twitter as [@miksimal](https://twitter.com/miksimal).
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [](Journey/002/Readme.md)
-- [ ] ☁️ 3 > [](Journey/003/Readme.md)
-- [ ] ☁️ 4 > [](Journey/004/Readme.md)
-- [ ] ☁️ 5 > [](Journey/005/Readme.md)
-- [ ] ☁️ 6 > [](Journey/006/Readme.md)
-- [ ] ☁️ 7 > [](Journey/007/Readme.md)
-- [ ] ☁️ 8 > [](Journey/008/Readme.md)
-- [ ] ☁️ 9 > [](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [](Journey/010/Readme.md)
+- [ ] ☁️ [Day 1](https://twitter.com/miksimal/status/1278064161302478848?s=20)
+- [ ] ☁️ [Day 2](https://twitter.com/miksimal/status/1278431918007205892?s=20)
+- [ ] ☁️ [Day 3](https://twitter.com/miksimal/status/1278796370401517569?s=20)
+- [ ] ☁️ [Day 4](https://twitter.com/miksimal/status/1279092592836214784?s=20)
+- [ ] ☁️ [Day 5](https://twitter.com/miksimal/status/1279423450092834816?s=20)
+- [ ] ☁️ [Day 6](https://twitter.com/miksimal/status/1279875575298035713?s=20)
+- [ ] ☁️ [Day 7](https://twitter.com/miksimal/status/1280243967565664258?s=20)
+- [ ] ☁️ [Day 8](https://twitter.com/miksimal/status/1280543654533378050?s=20)
+- [ ] ☁️ [Day 9](https://twitter.com/miksimal/status/1280964108456792065?s=20)
+- [ ] ☁️ [Day 10](https://twitter.com/miksimal/status/1281344546991996928?s=20)
 
 ## Walking down the road
 
-- [ ] ☁️ 11 > [](Journey/011/Readme.md)
-- [ ] ☁️ 12 > [](Journey/012/Readme.md)
-- [ ] ☁️ 13 > [](Journey/013/Readme.md)
-- [ ] ☁️ 14 > [](Journey/014/Readme.md)
-- [ ] ☁️ 15 > [](Journey/015/Readme.md)
-- [ ] ☁️ 16 > [](Journey/016/Readme.md)
-- [ ] ☁️ 17 > [](Journey/017/Readme.md)
-- [ ] ☁️ 18 > [](Journey/018/Readme.md)
-- [ ] ☁️ 19 > [](Journey/019/Readme.md)
-- [ ] ☁️ 20 > [](Journey/020/Readme.md)
+- [ ] ☁️ [Day 11](https://twitter.com/miksimal/status/1281610728957456386?s=20)
+- [ ] ☁️ [Day 12](https://twitter.com/miksimal/status/1282064841411354624?s=20)
+- [ ] ☁️ [Day 13](https://twitter.com/miksimal/status/1282426489309364224?s=20)
+- [ ] ☁️ [Day 14](https://twitter.com/miksimal/status/1283154419195023362?s=20)
+- [ ] ☁️ [Day 15](https://twitter.com/miksimal/status/1283499134402658305?s=20)
+- [ ] ☁️ [Day 16](https://twitter.com/miksimal/status/1283873251295453185?s=20)
+- [ ] ☁️ [Day 17](https://twitter.com/miksimal/status/1284259859349868545?s=20)
+- [ ] ☁️ [Day 18](https://twitter.com/miksimal/status/1284953762415751168?s=20)
+- [ ] ☁️ [Day 19](https://twitter.com/miksimal/status/1285327695417683969?s=20)
+- [ ] ☁️ [Day 20](https://twitter.com/miksimal/status/1285628500439859207?s=20)
 
 ## Crossing the bridge
 
-- [ ] ☁️ 21 > [](Journey/021/Readme.md)
-- [ ] ☁️ 22 > [](Journey/022/Readme.md)
-- [ ] ☁️ 23 > [](Journey/023/Readme.md)
-- [ ] ☁️ 24 > [](Journey/024/Readme.md)
-- [ ] ☁️ 25 > [](Journey/025/Readme.md)
+- [ ] ☁️ [Day 21](https://twitter.com/miksimal/status/1286039803197300737?s=20)
+- [ ] ☁️ [Day 22](https://twitter.com/miksimal/status/1286415275605331969?s=20)
+- [ ] ☁️ [Day 23](https://twitter.com/miksimal/status/1286707097011466241?s=20)
+- [ ] ☁️ [Day 24](https://twitter.com/miksimal/status/1287039925645389824?s=20)
+- [ ] ☁️ [Day 25](Journey/025/Readme.md)
 - [ ] ☁️ 26 > [](Journey/026/Readme.md)
 - [ ] ☁️ 27 > [](Journey/027/Readme.md)
 - [ ] ☁️ 28 > [](Journey/028/Readme.md)
