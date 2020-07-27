@@ -12,7 +12,7 @@ I'm super bullish on serverless as the way forward for the vast majority of busi
 
 Specifically, my goals for my >1hr/day for 100 days are to:
 
-🛠 Build 2-3 relatively complete/production ready serverless applications (starting with [Virtual Watercooler](https://virtualwatercooler.xyz)
+🛠 Build 2-3 relatively complete/production ready serverless applications (starting with [Virtual Watercooler](https://virtualwatercooler.xyz))
 
 📚 Broaden my knowledge and experience by (a) working with services I haven't used before like SNS/SQS, IoT Core, Step Functions and (b) learning about best-practices for production-ready serverless architecture
 
