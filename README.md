@@ -56,14 +56,14 @@ You can find me on Twitter as [@miksimal](https://twitter.com/miksimal).
 - [x] ☁️ [Day 25](https://twitter.com/miksimal/status/1287500617792073728?s=20)
 - [x] ☁️ [Day 26](https://twitter.com/miksimal/status/1287855229833281536?s=20)
 - [x] ☁️ [Day 27](https://twitter.com/miksimal/status/1288218459344707587?s=20)
-- [ ] ☁️ [Day 28](https://twitter.com/miksimal/status/1288589516748529664?s=20)
-- [ ] ☁️ [Day 29](https://twitter.com/miksimal/status/1288753698932502528?s=20)
-- [ ] ☁️ [Day 30](https://twitter.com/miksimal/status/1289161931954237441?s=20)
+- [x] ☁️ [Day 28](https://twitter.com/miksimal/status/1288589516748529664?s=20)
+- [x] ☁️ [Day 29](https://twitter.com/miksimal/status/1288753698932502528?s=20)
+- [x] ☁️ [Day 30](https://twitter.com/miksimal/status/1289161931954237441?s=20)
 
 ## Into the bushy, thorny forest
 
-- [ ] ☁️ [Day 31](https://twitter.com/miksimal/status/1289698054493413376?s=20)
-- [ ] ☁️ [Day 32](https://twitter.com/miksimal/status/1290057844679569408?s=20)
+- [x] ☁️ [Day 31](https://twitter.com/miksimal/status/1289698054493413376?s=20)
+- [x] ☁️ [Day 32](https://twitter.com/miksimal/status/1290057844679569408?s=20)
 - [ ] ☁️ 33 > [](Journey/033/Readme.md)
 - [ ] ☁️ 34 > [](Journey/034/Readme.md)
 - [ ] ☁️ 35 > [](Journey/035/Readme.md)
