@@ -64,8 +64,8 @@ You can find me on Twitter as [@miksimal](https://twitter.com/miksimal).
 
 - [x] ☁️ [Day 31](https://twitter.com/miksimal/status/1289698054493413376?s=20)
 - [x] ☁️ [Day 32](https://twitter.com/miksimal/status/1290057844679569408?s=20)
-- [ ] ☁️ 33 > [](Journey/033/Readme.md)
-- [ ] ☁️ 34 > [](Journey/034/Readme.md)
+- [x] ☁️ [Day 33](https://twitter.com/miksimal/status/1290765907497816064?s=20)
+- [x] ☁️ [Day 34](https://twitter.com/miksimal/status/1290765907497816064?s=20)
 - [ ] ☁️ 35 > [](Journey/035/Readme.md)
 - [ ] ☁️ 36 > [](Journey/036/Readme.md)
 - [ ] ☁️ 37 > [](Journey/037/Readme.md)
