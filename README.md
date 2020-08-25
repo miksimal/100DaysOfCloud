@@ -70,16 +70,16 @@ You can find me on Twitter as [@miksimal](https://twitter.com/miksimal).
 - [x] ☁️ [Day 36](https://twitter.com/miksimal/status/1295089366075871237?s=20)
 - [x] ☁️ [Day 37](https://twitter.com/miksimal/status/1295408333315334145?s=20)
 - [x] ☁️ [Day 38](https://twitter.com/miksimal/status/1295830477933350913?s=20)
-- [ ] ☁️ 39 > [](Journey/039/Readme.md)
-- [ ] ☁️ 40 > [](Journey/040/Readme.md)
+- [x] ☁️ [Day 39](https://twitter.com/miksimal/status/1296139867622199296?s=20)
+- [x] ☁️ [Day 40](https://twitter.com/miksimal/status/1296553687112978432?s=20)
 
 ## Trekking the dunes
 
-- [ ] ☁️ 41 > [](Journey/041/Readme.md)
-- [ ] ☁️ 42 > [](Journey/042/Readme.md)
-- [ ] ☁️ 43 > [](Journey/043/Readme.md)
-- [ ] ☁️ 44 > [](Journey/044/Readme.md)
-- [ ] ☁️ 45 > [](Journey/045/Readme.md)
+- [x] ☁️ [Day 41](https://twitter.com/miksimal/status/1296855835608412160?s=20)
+- [x] ☁️ [Day 42](https://twitter.com/miksimal/status/1297238003031724032?s=20)
+- [x] ☁️ [Day 43](https://twitter.com/miksimal/status/1297641877299236867?s=20)
+- [x] ☁️ [Day 44](https://twitter.com/miksimal/status/1298351854745718785?s=20)
+- [x] ☁️ [Day 45](https://twitter.com/miksimal/status/1298351854745718785?s=20)
 - [ ] ☁️ 46 > [](Journey/046/Readme.md)
 - [ ] ☁️ 47 > [](Journey/047/Readme.md)
 - [ ] ☁️ 48 > [](Journey/048/Readme.md)
