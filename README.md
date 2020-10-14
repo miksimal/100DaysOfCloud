@@ -80,63 +80,35 @@ You can find me on Twitter as [@miksimal](https://twitter.com/miksimal).
 - [x] ☁️ [Day 43](https://twitter.com/miksimal/status/1297641877299236867?s=20)
 - [x] ☁️ [Day 44](https://twitter.com/miksimal/status/1298351854745718785?s=20)
 - [x] ☁️ [Day 45](https://twitter.com/miksimal/status/1298351854745718785?s=20)
-- [ ] ☁️ 46 > [](Journey/046/Readme.md)
-- [ ] ☁️ 47 > [](Journey/047/Readme.md)
-- [ ] ☁️ 48 > [](Journey/048/Readme.md)
-- [ ] ☁️ 49 > [](Journey/049/Readme.md)
-- [ ] ☁️ 50 > [](Journey/050/Readme.md)
+- [x] ☁️ [Day 46](https://twitter.com/miksimal/status/1298729352964775938?s=20)
+- [x] ☁️ [Days 47 - 48](https://twitter.com/miksimal/status/1299406460456235011?s=20)
 
 ## Winding through the canyons
 
-- [ ] ☁️ 51 > [](Journey/051/Readme.md)
-- [ ] ☁️ 52 > [](Journey/052/Readme.md)
-- [ ] ☁️ 53 > [](Journey/053/Readme.md)
-- [ ] ☁️ 54 > [](Journey/054/Readme.md)
-- [ ] ☁️ 55 > [](Journey/055/Readme.md)
-- [ ] ☁️ 56 > [](Journey/056/Readme.md)
-- [ ] ☁️ 57 > [](Journey/057/Readme.md)
-- [ ] ☁️ 58 > [](Journey/058/Readme.md)
-- [ ] ☁️ 59 > [](Journey/059/Readme.md)
-- [ ] ☁️ 60 > [](Journey/060/Readme.md)
+- [x] ☁️ [Days 49 -52](https://twitter.com/miksimal/status/1300913490446684165?s=20)
+- [x] ☁️ [Day 53](https://twitter.com/miksimal/status/1301270732127842305?s=20)
+- [x] ☁️ [Day 54](https://twitter.com/miksimal/status/1301584455472160770?s=20)
+- [x] ☁️ [Days 55-57](https://twitter.com/miksimal/status/1303449064906854400?s=20)
 
 ## Stumbling through the caves
 
-- [ ] ☁️ 61 > [](Journey/061/Readme.md)
-- [ ] ☁️ 62 > [](Journey/062/Readme.md)
-- [ ] ☁️ 63 > [](Journey/063/Readme.md)
-- [ ] ☁️ 64 > [](Journey/064/Readme.md)
-- [ ] ☁️ 65 > [](Journey/065/Readme.md)
-- [ ] ☁️ 66 > [](Journey/066/Readme.md)
-- [ ] ☁️ 67 > [](Journey/067/Readme.md)
-- [ ] ☁️ 68 > [](Journey/068/Readme.md)
-- [ ] ☁️ 69 > [](Journey/069/Readme.md)
-- [ ] ☁️ 70 > [](Journey/070/Readme.md)
+- [x] ☁️ [Days 58 - 62](https://twitter.com/miksimal/status/1305171665991725059?s=20)
+- [x] ☁️ [Days 63 - 67](https://twitter.com/miksimal/status/1306699341067890691?s=20)
+- [x] ☁️ [Days 68 - 70](https://twitter.com/miksimal/status/1307765092042375168?s=20)
 
 ## Resting at the Lagoon
 
-- [ ] ☁️ 71 > [](Journey/071/Readme.md)
-- [ ] ☁️ 72 > [](Journey/072/Readme.md)
-- [ ] ☁️ 73 > [](Journey/073/Readme.md)
-- [ ] ☁️ 74 > [](Journey/074/Readme.md)
-- [ ] ☁️ 75 > [](Journey/075/Readme.md)
-- [ ] ☁️ 76 > [](Journey/076/Readme.md)
-- [ ] ☁️ 77 > [](Journey/077/Readme.md)
-- [ ] ☁️ 78 > [](Journey/078/Readme.md)
-- [ ] ☁️ 79 > [](Journey/079/Readme.md)
-- [ ] ☁️ 80 > [](Journey/080/Readme.md)
+- [x] ☁️ [Days 71 - 73](https://twitter.com/miksimal/status/1308889338961440768?s=20)
+- [x] ☁️ [Day 74](https://twitter.com/miksimal/status/1309242325516922880?s=20)
+- [x] ☁️ [Days 75 - 78](https://twitter.com/miksimal/status/1310687791379034119?s=20)
+- [x] ☁️ [Days 79 - 81](https://twitter.com/miksimal/status/1311775130528423940?s=20)
 
 ## Up into the mountains
 
-- [ ] ☁️ 81 > [](Journey/081/Readme.md)
-- [ ] ☁️ 82 > [](Journey/082/Readme.md)
-- [ ] ☁️ 83 > [](Journey/083/Readme.md)
-- [ ] ☁️ 84 > [](Journey/084/Readme.md)
-- [ ] ☁️ 85 > [](Journey/085/Readme.md)
-- [ ] ☁️ 86 > [](Journey/086/Readme.md)
-- [ ] ☁️ 87 > [](Journey/087/Readme.md)
-- [ ] ☁️ 88 > [](Journey/088/Readme.md)
-- [ ] ☁️ 89 > [](Journey/089/Readme.md)
-- [ ] ☁️ 90 > [](Journey/090/Readme.md)
+- [x] ☁️ [Days 82 - 84](https://twitter.com/miksimal/status/1313224169321107457?s=20)
+- [x] ☁️ [Days 85 - 86](https://twitter.com/miksimal/status/1313949858319994882?s=20)
+- [x] ☁️ [Day 87](https://twitter.com/miksimal/status/1314317959440019460?s=20)
+- [x] ☁️ [Days 88 - 90](https://twitter.com/miksimal/status/1315404554989600770?s=20)
 
 ## Into the sky to touch the cloud!
 
