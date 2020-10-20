@@ -112,13 +112,8 @@ You can find me on Twitter as [@miksimal](https://twitter.com/miksimal).
 
 ## Into the sky to touch the cloud!
 
-- [ ] ☁️ 91 > [](Journey/091/Readme.md)
-- [ ] ☁️ 92 > [](Journey/092/Readme.md)
-- [ ] ☁️ 93 > [](Journey/093/Readme.md)
-- [ ] ☁️ 94 > [](Journey/094/Readme.md)
-- [ ] ☁️ 95 > [](Journey/095/Readme.md)
-- [ ] ☁️ 96 > [](Journey/096/Readme.md)
-- [ ] ☁️ 97 > [](Journey/097/Readme.md)
-- [ ] ☁️ 98 > [](Journey/098/Readme.md)
+- [x] ☁️ [Days 91 - 93](https://twitter.com/miksimal/status/1316489240335855624?s=20)
+- [x] ☁️ [Days 94 - 96](https://twitter.com/miksimal/status/1317576168254640128?s=20)
+- [x] ☁️ [Days 97 - 98](https://twitter.com/miksimal/status/1318299480773582849?s=20)
 - [ ] ☁️ 99 > [](Journey/099/Readme.md)
 - [ ] ☁️ 100 > [](Journey/100/Readme.md)
