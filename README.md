@@ -2,7 +2,7 @@
   <img src="banner.png">
 </p>
 
-## Mikkel's Cloud Journey
+## 100 Days Of (Serverless) Cloud Challenge (finished Oct 21, 2020)
 
 👋 Hi, I'm Mikkel, a self-taught software engineer based in London.
 
@@ -115,5 +115,5 @@ You can find me on Twitter as [@miksimal](https://twitter.com/miksimal).
 - [x] ☁️ [Days 91 - 93](https://twitter.com/miksimal/status/1316489240335855624?s=20)
 - [x] ☁️ [Days 94 - 96](https://twitter.com/miksimal/status/1317576168254640128?s=20)
 - [x] ☁️ [Days 97 - 98](https://twitter.com/miksimal/status/1318299480773582849?s=20)
-- [ ] ☁️ 99 > [](Journey/099/Readme.md)
-- [ ] ☁️ 100 > [](Journey/100/Readme.md)
+- [x] ☁️ [Day 99](https://twitter.com/miksimal/status/1318661920459788289?s=20)
+- [x] ☁️ [Day 100 🎉](https://twitter.com/miksimal/status/1319029650899730442?s=20)
